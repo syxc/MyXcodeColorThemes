@@ -23,7 +23,7 @@
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>SFMono-Bold - 13.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.152941 0.168627 0.2 1</string>
+	<string>0.0907925 0.0994017 0.115491 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.321569 0.545098 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -162,9 +162,9 @@
 		<key>xcode.syntax.comment</key>
 		<string>SFMono-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>SFMono-Regular - 13.0</string>
+		<string>Helvetica - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SFMono-Regular - 13.0</string>
+		<string>SFMono-Bold - 13.0</string>
 		<key>xcode.syntax.declaration.other</key>
 		<string>SFMono-Regular - 13.0</string>
 		<key>xcode.syntax.declaration.type</key>
@@ -194,9 +194,9 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>SFMono-Regular - 13.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SFMono-Regular - 13.0</string>
+		<string>SFMono-Semibold - 13.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>SFMono-Regular - 13.0</string>
+		<string>SFMono-Bold - 13.0</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>SFMono-Regular - 13.0</string>
 		<key>xcode.syntax.number</key>
