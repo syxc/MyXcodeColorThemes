@@ -3,7 +3,8 @@ nobody.xccolortheme
 
 ``One Dark.xccolortheme`` yyds.
 
-护眼色：[豆沙绿](https://zh.wikipedia.org/wiki/%E8%B1%86%E6%B2%99%E7%BB%BF)  
+**护眼色**  
+[豆沙绿](https://zh.wikipedia.org/wiki/%E8%B1%86%E6%B2%99%E7%BB%BF)  
 RGB: (199, 237, 204)  
 HEX: #C7EDCC  
 
